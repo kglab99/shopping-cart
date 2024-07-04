@@ -1,1 +1,1 @@
-# (Preview)[https://shopping-cart-kglab.netlify.app/]
+# [Preview](https://shopping-cart-kglab.netlify.app/)
